@@ -1,0 +1,25 @@
+# private
+.env
+.env.plain
+sa4pecai-key.json
+local
+temp
+
+# locals
+models
+neo4j_data
+neo4j_plugins
+arch
+
+# python generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# venv
+.venv
+
+sa4pecai-key.json
